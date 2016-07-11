@@ -1,0 +1,1 @@
+include ':app', ':viewbinder.generator', ':viewbinder.annotation', ':viewbinder'
